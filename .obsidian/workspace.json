@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "36390390af96330c",
+        "id": "b5db911935df7a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "87cdfbf719fb8610",
+            "id": "a3c5f028980f1695",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blazor Persistant State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550276135ff694be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenTelemetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb069da1b3d8816a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git worktree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git worktree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -127,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git worktree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git worktree.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -171,21 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb069da1b3d8816a",
+  "active": "a3c5f028980f1695",
   "lastOpenFiles": [
+    "Blazor Persistant State.md",
+    "OpenTelemetry.md",
+    "Code Refactoring.md",
+    "Welcome.md",
     "Git rebase met Vim.md",
     "Git worktree.md",
-    "OpenTelemetry.md",
-    "Blazor Persistant State.md",
     "Quick Guide voor Vim.md",
     "Vim.md",
     "CSharp/EntityFramework/ExecuteUpdate and ExecuteDelete (Bulk updates).md",
     "CSharp/EntityFramework/Entity Framework Core.md",
-    "Welcome.md",
     "CSharp/EntityFramework",
     "CSharp",
     "Untitled.canvas",
-    "2024-05-04.md",
-    "create a link.md"
+    "2024-05-04.md"
   ]
 }
