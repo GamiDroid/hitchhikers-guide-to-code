@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Git Clone Specific Folders"
             }
+          },
+          {
+            "id": "634dd5783e45cbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git worktree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git worktree"
+            }
+          },
+          {
+            "id": "5f8cf98101b32476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PowerShell - Get-Content with Filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PowerShell - Get-Content with Filter"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,16 +201,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4f707c2dd2014d6",
+  "active": "614f77c6b198fc5f",
   "lastOpenFiles": [
-    "Git rebase met Vim.md",
-    "Git Clone Specific Folders.md",
     "Code Refactoring.md",
+    "Async Messaging in .NET with MassTransit.md",
+    "Git Clone Specific Folders.md",
+    "Git rebase met Vim.md",
+    "Git worktree.md",
+    "Integration Patterns Microservices.md",
+    "OpenTelemetry.md",
+    "PowerShell - Get-Content with Filter.md",
+    "Powershell.md",
     "Blazor Persistant State.md",
     "20241226-0759-04.6398145.mp4",
-    "OpenTelemetry.md",
     "Welcome.md",
-    "Git worktree.md",
     "Quick Guide voor Vim.md",
     "Vim.md",
     "CSharp/EntityFramework/ExecuteUpdate and ExecuteDelete (Bulk updates).md",
