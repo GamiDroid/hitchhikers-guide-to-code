@@ -51,7 +51,7 @@ repos\hitchhikers-guide-to-code-hotfix  adb7aae [main]
 # Worktree verwijderen
 
 ```cmd
-git worktree remove ..\hitchhikers-guide-to-code 
+git worktree remove ..\hitchhikers-guide-to-code-hotfix
 ```
 
 Dit commando verwijderd de worktree (als er geen wijzigingen openstaan).

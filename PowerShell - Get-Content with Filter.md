@@ -19,7 +19,7 @@ Get-Content "employees.txt" | Select-String -pattern ("Employee 1", "Peter")
 Het is ook mogelijk om dit te combineren met een log-bestand. Met het volgende commando kan worden gebruikt om een log bestand bij te houden.
 
 ```bash
- Get-Content "app.log" -Wait -Tail 100 | Select-String -pattern "filter1"
+Get-Content "app.log" -Wait -Tail 100 | Select-String -pattern "filter1"
 ```
 
 Het commando kijkt in het bestand app.log en blijft kijken of er nieuwe tekst in het bestand komt.
