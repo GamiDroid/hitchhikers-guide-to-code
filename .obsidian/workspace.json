@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b5db911935df7a5f",
+        "id": "155abf089fd70ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c5f028980f1695",
+            "id": "1b371f9cce6883e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Refactoring.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Code Refactoring"
-            }
-          },
-          {
-            "id": "d4f707c2dd2014d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Clone Specific Folders.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Clone Specific Folders"
-            }
-          },
-          {
-            "id": "634dd5783e45cbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git worktree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git worktree"
-            }
-          },
-          {
-            "id": "5f8cf98101b32476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PowerShell - Get-Content with Filter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PowerShell - Get-Content with Filter"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,17 +133,32 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "PowerShell - Get-Content with Filter.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PowerShell - Get-Content with Filter"
+            }
+          },
+          {
+            "id": "84a569ad5c368381",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,21 +167,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "614f77c6b198fc5f",
+  "active": "1b371f9cce6883e4",
   "lastOpenFiles": [
-    "Code Refactoring.md",
-    "Async Messaging in .NET with MassTransit.md",
+    "PowerShell - Get-Content with Filter.md",
+    "Git worktree.md",
     "Git Clone Specific Folders.md",
     "Git rebase met Vim.md",
-    "Git worktree.md",
-    "Integration Patterns Microservices.md",
-    "OpenTelemetry.md",
-    "PowerShell - Get-Content with Filter.md",
-    "Powershell.md",
+    "Coding Productivity with AI in Visual Studio.md",
+    "Code Refactoring.md",
     "Blazor Persistant State.md",
+    "Writing Testable Code in CSharp.md",
+    "OpenTelemetry.md",
+    "Messaging With MassTransit.md",
+    "Async Messaging in .NET with MassTransit.md",
+    "Integration Patterns Microservices.md",
+    "Powershell.md",
     "20241226-0759-04.6398145.mp4",
     "Welcome.md",
     "Quick Guide voor Vim.md",
