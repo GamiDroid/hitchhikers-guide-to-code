@@ -49,3 +49,11 @@ pick 068bc13 Refresh cache when any of the requested route id caches is empty
 ```
 
 Druk nu `ESC` om naar `NORMAL` mode terug te keren. En gebruik `:wq` om de wijzigingen op te slaan en [[Vim]] te sluiten.
+# Handige Vim Tips
+
+`dd` : delete (cut) a line 
+`yy` yank (copy) a line
+`p`: put (paste) the clipboard after cursor
+
+[Vim cheatsheet](https://vim.rtorr.com/)
+

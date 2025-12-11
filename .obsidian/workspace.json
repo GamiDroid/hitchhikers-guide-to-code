@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "155abf089fd70ca1",
+        "id": "48377ba59d782c06",
         "type": "tabs",
         "children": [
           {
-            "id": "1b371f9cce6883e4",
+            "id": "e4940914183076d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/core-plugins.json",
+                "bFile": ".obsidian/core-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: core-plugins.json"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 384.5110321044922
   },
   "right": {
     "id": "7d131fe4f66a0edd",
@@ -134,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PowerShell - Get-Content with Filter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PowerShell - Get-Content with Filter"
+              "title": "Outline"
             }
           },
           {
@@ -158,10 +161,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,25 +175,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b371f9cce6883e4",
+  "active": "e4940914183076d1",
   "lastOpenFiles": [
-    "PowerShell - Get-Content with Filter.md",
-    "Git worktree.md",
-    "Git Clone Specific Folders.md",
     "Git rebase met Vim.md",
-    "Coding Productivity with AI in Visual Studio.md",
-    "Code Refactoring.md",
-    "Blazor Persistant State.md",
-    "Writing Testable Code in CSharp.md",
-    "OpenTelemetry.md",
+    "Vim.md",
     "Messaging With MassTransit.md",
-    "Async Messaging in .NET with MassTransit.md",
+    "notification-event.png",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Git worktree.md",
+    "OpenTelemetry.md",
+    "PowerShell - Get-Content with Filter.md",
+    "Writing Testable Code in CSharp.md",
     "Integration Patterns Microservices.md",
+    "Git Clone Specific Folders.md",
+    "Code Refactoring.md",
+    "Event Driven Architecture Course.md",
+    "Untitled.md",
+    "Coding Productivity with AI in Visual Studio.md",
+    "Blazor Persistant State.md",
+    "Async Messaging in .NET with MassTransit.md",
     "Powershell.md",
     "20241226-0759-04.6398145.mp4",
     "Welcome.md",
     "Quick Guide voor Vim.md",
-    "Vim.md",
     "CSharp/EntityFramework/ExecuteUpdate and ExecuteDelete (Bulk updates).md",
     "CSharp/EntityFramework/Entity Framework Core.md",
     "CSharp/EntityFramework",
